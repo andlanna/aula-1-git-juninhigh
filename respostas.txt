@@ -1,0 +1,12 @@
+## 1 - a) Comando para criar configuração inical de repositório
+	b)Git clone - Pega o repositório remoto e clona no seu repositório local, para pode alterar de forma independente.
+	c) git branch - Mostra quais são as "ramificações do diretorio do projeto
+	d)git checktout - usado para alternar de branch, e alterar o alvo da referencia HEAD.
+	e)git fetch - baixa as referencias com nomes ou tags de um ou mais repositório
+	g)git pull - incorpoa as mudanças de rep remoto parao branch local, é seguido por um git merge FETCH_HEAD
+	h)git commit - que significa pegar todos os arquivos que estão naquele lugar INDEX que o comando add adicionou e criar uma revisão com um número e um comentário, que será vista por todos.
+	i) git pull - O comando git push é usado para enviar conteúdo do repositório local para um repositório remoto. 
+
+## 2 - Git fetch - busca as alterações mais recentes do branch atual armazenada no rep remoto
+	Git pull - busca as alterações do rep remoto e incorporo (merge) ao rep local.
+	 
